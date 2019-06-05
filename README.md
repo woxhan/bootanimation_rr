@@ -1,2 +1,2 @@
 Animation download from Resurection Remix 7 firmware, in green tones as a Magisk module
-![Preview Image](https://yadi.sk/i/prVg10BILsai9A)
+![Preview Image](https://github.com/woxhan/bootanimation_rr/blob/master/rr.png)
