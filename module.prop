@@ -1,0 +1,7 @@
+id=bootanimation_rr
+name=Bootanimation RR
+version=v1
+versionCode=3
+author=woxhan
+description=Animation download from Resurection Remix 7 firmware, in green tones.
+support=https://github.com/woxhan/bootanimation_rr
